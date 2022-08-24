@@ -1,2 +1,3 @@
 branch master colour red
 branch master colour blue
+branch branch1 colour green
